@@ -69,7 +69,7 @@ bash run_example.sh
 
 This script runs the `inference.py` script with sample data provided in the `examples` folder. 
 
-We also provide an example tutorial in `quick_start.ipynb`.
+We also provide an example tutorial in `quick_start.ipynb`. The instructions for reproducing our results on each downstream task can be found in the corresponding directory.
 
 ## Usage
 
