@@ -81,6 +81,9 @@ To train ChrisCell-Graph with your own data, you can replace the `--data_path` w
 ```bash
 bash train.sh
 ```
+### Using ChrisCell's representation as the input of ChrisCell-Graph
+
+To use ChrisCell's representation as the input of ChrisCell-Graph, you need to replace the raw gene expression with the features from ChrisCell.
 
 
 
