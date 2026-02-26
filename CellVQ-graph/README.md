@@ -85,9 +85,6 @@ bash train.sh
 
 To use CellVQ's representation as the input of CellVQ-Graph, you need to replace the raw gene expression with the features from CellVQ.
 
-### Using CellVQ's representation as the input of CellVQ-Graph
-
-To use CellVQ's representation as the input of CellVQ-Graph, you need to replace the raw gene expression with the features from CellVQ.
 
 
 
