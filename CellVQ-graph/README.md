@@ -81,9 +81,9 @@ To train CellVQ-Graph with your own data, you can replace the `--data_path` with
 ```bash
 bash train.sh
 ```
-### Using ChrisCell's representation as the input of ChrisCell-Graph
+### Using CellVQ's representation as the input of CellVQ-Graph
 
-To use ChrisCell's representation as the input of ChrisCell-Graph, you need to replace the raw gene expression with the features from ChrisCell.
+To use CellVQ's representation as the input of CellVQ-Graph, you need to replace the raw gene expression with the features from CellVQ.
 
 ### Using CellVQ's representation as the input of CellVQ-Graph
 
