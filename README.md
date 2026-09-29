@@ -43,7 +43,7 @@ To get started with CellVQ, follow these steps:
    cd CellVQ
    ```
 
-2. **Create and activate the conda environment**:
+2. **Create and activate the conda environment (The linux system and Python 3.9.17 are required)**:
 
     ```bash
     conda create -n CellVQ python=3.9.17
